@@ -1,3 +1,5 @@
+Suspicious Lists
+
 | Host file recipe | Source                                                                  | Raw hosts                                                                                        | State | Risk |
 | ---------------- |:-----------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|:-----:|:----:|
 | KADhosts         | [GitHub](https://github.com/PolishFiltersTeam/KADhosts)                 | [link](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt)         | ON    | 1    |
@@ -16,3 +18,11 @@
 | JoeWeinDomBlBase |                                                                         | [link](https://www.joewein.net/dl/bl/dom-bl-base.txt)                                            | OFF   | 3    |
 | Kowabit          |                                                                         | [link](https://v.firebog.net/hosts/Kowabit.txt)                                                  | OFF   | 3    |
 | mahakala         |                                                                         | [link](https://adblock.mahakala.is)                                                              | OFF   | 3    |
+
+Advertising Lists
+
+Tracking & Telemetry Lists
+
+Malicious Lists
+
+Other Lists
