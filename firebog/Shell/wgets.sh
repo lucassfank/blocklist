@@ -169,6 +169,12 @@ DownloadOtherLists(){
 }
 
 #Invalid Input
+Exit(){
+	echo "Exiting..."
+	exit 0
+}
+
+#Invalid Input
 Invalid(){
 	echo "Invalid option"
 	Menu
