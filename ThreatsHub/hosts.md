@@ -1,6 +1,6 @@
 This list is maintained by [ThreatsHub.org](https://www.threatshub.org/). More about the project at [Bitbucket](https://bitbucket.org/threatshub/th-dfbase/src/master/).
 
-This repository has no intend of replacing the original website, it is only a way to maintain these lists among other lists, offering more options regarding acces to the original list maintainer's websites or repositories. And, also, including some options for manage and use these lists.
+This repository has no intend of replacing the original repository, it is only a way to maintain these lists among other lists, offering more options regarding acces to the original list maintainer's websites or repositories. And, also, including some options for manage and use these lists.
 
 | Host file recipe                      | Source                                                  | Raw hosts                                                                                                                  | State | Risk |
 | ------------------------------------- |:-------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:-----:|:----:|

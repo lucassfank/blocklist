@@ -2,19 +2,11 @@
 
 This list is maintained by [WaLLy3K · GitHub](https://github.com/WaLLy3K) at [firebog.net](https://firebog.net/) as the Big Blocklist Collection. More about the project at [About Firebog](https://firebog.net/about).
 
-
+This repository has no intend of replacing the original website, it is only a way to maintain these lists among other lists, offering more options regarding acces to the original list maintainer's websites or repositories. And, also, including some options for manage and use these lists.
 
 The risk factor refers to the impact that it can cause if enabled, because some blocklists can contain false positives or contain domains that are needed for popular websites to work.
 
-
-
-This repository has no intend of replacing the original website, it is only a way to maintain these lists among other lists, offering more options regarding acces to the original list maintainer's websites or repositories. And, also, including some options for manage and use these lists.
-
-
-
 Quoting an item of Firebog's observations:  "These lists are painstakingly worked on by their respective maintainers. Please contact them *first* if you find false positives"
-
-
 
 Suspicious Lists
 
