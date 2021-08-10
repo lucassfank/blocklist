@@ -7,11 +7,18 @@ github.map.fastly.net # CNAME for (raw.githubusercontent.com)
 .gitlab.com
 .apple.com 
 .sourceforge.net
-google.com
+chat.google.com
+docs.google.com
+drive.google.com
+mail.google.com
+contacts.google.com
+meet.google.com
+www.google.com.br
 www.google.com
 youtube.com
 www.youtube.com
 youtube-ui.l.google.com # CNAME for (youtube.com)
+drive-thirdparty.googleusercontent.com
 stackoverflow.com
 www.stackoverflow.com
 dropbox.com
@@ -23,33 +30,18 @@ cs196.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
 cs2-wac.apr-8315.edgecastdns.net # CNAME for (pbs.twimg.com)
 cs2-wac-us.8315.ecdns.net # CNAME for (pbs.twimg.com)
 cs45.wac.edgecastcdn.net # CNAME for (pbs.twimg.com)
-
-chat.google.com
-docs.google.com
-drive.google.com
-mail.google.com
-contacts.google.com
-meet.google.com
-www.google.com.br
-www.google.com
-drive-thirdparty.googleusercontent.com
-.amazon-adsystem.com
-.adsafeprotected.com
-control.kochava.com
-device-metrics-us-2.amazon.com
 secure-gl.imrworldwide.com
-.githubusercontent.com
-.github.com
-github.map.fastly.net 
-.apple.com
-.sourceforge.net
-s3.amazonaws.com
-s3-1.amazonaws.com
 web.whatsapp.com
 whatsapp.com
 pastebin.com
 storage.googleapis.com
 accounts.google.com
+
+#Amazon
+#.amazon-adsystem.com
+#.adsafeprotected.com
+#control.kochava.com
+#device-metrics-us-2.amazon.com
 
 #https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
 #Google Maps and other Google services
